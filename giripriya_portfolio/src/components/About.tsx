@@ -44,8 +44,7 @@ export const About = () => {
           <Card className={`glass-panel p-8 hover-3d transition-all duration-700 ${isVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-10"}`}>
             <h3 className="text-2xl font-bold mb-4 text-primary">Professional Journey</h3>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              Currently pursuing Master of Physiotherapy at SVIMS, Tirupati (2025), building on a strong foundation 
-              from my Bachelor's degree (2021, 75%).
+              I completed my Master of Physiotherapy at SVIMS, Tirupati (2025), building on a strong foundation from my Bachelor's degree (2021, 75%).
             </p>
             <p className="text-muted-foreground leading-relaxed">
               My professional experience includes working as a Physiotherapist and Tutor at KS Hospitals, Koppal, 
